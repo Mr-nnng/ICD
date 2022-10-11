@@ -1,0 +1,144 @@
+---------MIRT-----------
+DataSet: ASSIST_0910
+test_ratio: 0.2
+[Epoch 0] LogisticLoss: 6.026033
+[Epoch 1] LogisticLoss: 3.965838
+[Epoch 2] LogisticLoss: 2.689362
+[Epoch 3] LogisticLoss: 2.072186
+[Epoch 4] LogisticLoss: 1.718625
+[Epoch 5] LogisticLoss: 1.487437
+[Epoch 6] LogisticLoss: 1.323039
+[Epoch 7] LogisticLoss: 1.190848
+acc: 0.573386,auc: 0.557042,rmse: 0.610545, mae: 0.429882
+---------MIRT-----------
+DataSet: ASSIST_2017
+test_ratio: 0.2
+[Epoch 0] LogisticLoss: 5.568631
+[Epoch 1] LogisticLoss: 3.758571
+[Epoch 2] LogisticLoss: 2.830757
+[Epoch 3] LogisticLoss: 2.393617
+[Epoch 4] LogisticLoss: 2.164014
+[Epoch 5] LogisticLoss: 2.033770
+[Epoch 6] LogisticLoss: 1.938990
+[Epoch 7] LogisticLoss: 1.840806
+acc: 0.554561,auc: 0.570875,rmse: 0.617161, mae: 0.448877
+---------MIRT-----------
+DataSet: JUNYI
+test_ratio: 0.2
+[Epoch 0] LogisticLoss: 7.636226
+[Epoch 1] LogisticLoss: 3.915846
+[Epoch 2] LogisticLoss: 3.193811
+[Epoch 3] LogisticLoss: 3.042282
+[Epoch 4] LogisticLoss: 2.836441
+[Epoch 5] LogisticLoss: 2.650774
+[Epoch 6] LogisticLoss: 2.550216
+[Epoch 7] LogisticLoss: 2.447420
+acc: 0.286930,auc: 0.525172,rmse: 0.551628, mae: 0.487017
+---------MIRT-----------
+DataSet: MathEC
+test_ratio: 0.2
+[Epoch 0] LogisticLoss: 11.774551
+[Epoch 1] LogisticLoss: 6.813661
+[Epoch 2] LogisticLoss: 4.966358
+[Epoch 3] LogisticLoss: 3.723503
+[Epoch 4] LogisticLoss: 2.986225
+[Epoch 5] LogisticLoss: 2.427838
+[Epoch 6] LogisticLoss: 2.010174
+[Epoch 7] LogisticLoss: 1.715313
+acc: 0.619239,auc: 0.632426,rmse: 0.588022, mae: 0.382324
+---------DINA-----------
+DataSet: ASSIST_0910
+test_ratio: 0.2
+[Epoch 0] LogisticLoss: 0.700961
+[Epoch 1] LogisticLoss: 0.674312
+[Epoch 2] LogisticLoss: 0.651365
+[Epoch 3] LogisticLoss: 0.632860
+[Epoch 4] LogisticLoss: 0.616845
+[Epoch 5] LogisticLoss: 0.605898
+[Epoch 6] LogisticLoss: 0.597048
+[Epoch 7] LogisticLoss: 0.588721
+acc: 0.685782,auc: 0.711741,rmse: 0.471393, mae: 0.333775
+---------DINA-----------
+DataSet: ASSIST_2017
+test_ratio: 0.2
+[Epoch 0] LogisticLoss: 0.697391
+[Epoch 1] LogisticLoss: 0.660455
+[Epoch 2] LogisticLoss: 0.637719
+[Epoch 3] LogisticLoss: 0.626526
+[Epoch 4] LogisticLoss: 0.620116
+[Epoch 5] LogisticLoss: 0.615468
+[Epoch 6] LogisticLoss: 0.614632
+[Epoch 7] LogisticLoss: 0.611396
+acc: 0.619851,auc: 0.703657,rmse: 0.505410, mae: 0.372889
+---------DINA-----------
+DataSet: JUNYI
+test_ratio: 0.2
+[Epoch 0] LogisticLoss: 0.566504
+[Epoch 1] LogisticLoss: 0.526296
+[Epoch 2] LogisticLoss: 0.517880
+[Epoch 3] LogisticLoss: 0.512770
+[Epoch 4] LogisticLoss: 0.508460
+[Epoch 5] LogisticLoss: 0.504295
+[Epoch 6] LogisticLoss: 0.504066
+[Epoch 7] LogisticLoss: 0.500410
+acc: 0.498489,auc: 0.623789,rmse: 0.520796, mae: 0.386760
+---------DINA-----------
+DataSet: MathEC
+test_ratio: 0.2
+[Epoch 0] LogisticLoss: 0.661088
+[Epoch 1] LogisticLoss: 0.620044
+[Epoch 2] LogisticLoss: 0.609103
+[Epoch 3] LogisticLoss: 0.605209
+[Epoch 4] LogisticLoss: 0.603093
+[Epoch 5] LogisticLoss: 0.602712
+[Epoch 6] LogisticLoss: 0.603238
+[Epoch 7] LogisticLoss: 0.604029
+acc: 0.657589,auc: 0.747866,rmse: 0.475096, mae: 0.338488
+---------NCDM-----------
+DataSet: ASSIST_0910
+test_ratio: 0.2
+[Epoch 0] average loss: 0.645544
+[Epoch 1] average loss: 0.535693
+[Epoch 2] average loss: 0.482636
+[Epoch 3] average loss: 0.458633
+[Epoch 4] average loss: 0.443926
+[Epoch 5] average loss: 0.433778
+[Epoch 6] average loss: 0.425726
+[Epoch 7] average loss: 0.420307
+acc: 0.729940,auc: 0.760085,rmse: 0.435326, mae: 0.322477
+---------NCDM-----------
+DataSet: ASSIST_2017
+test_ratio: 0.2
+[Epoch 0] average loss: 0.665668
+[Epoch 1] average loss: 0.568693
+[Epoch 2] average loss: 0.520658
+[Epoch 3] average loss: 0.487265
+[Epoch 4] average loss: 0.463397
+[Epoch 5] average loss: 0.447420
+[Epoch 6] average loss: 0.436387
+[Epoch 7] average loss: 0.427936
+acc: 0.686606,auc: 0.744679,rmse: 0.463733, mae: 0.363152
+---------NCDM-----------
+DataSet: JUNYI
+test_ratio: 0.2
+[Epoch 0] average loss: 0.467674
+[Epoch 1] average loss: 0.437059
+[Epoch 2] average loss: 0.242588
+[Epoch 3] average loss: 0.059514
+[Epoch 4] average loss: 0.029527
+[Epoch 5] average loss: 0.022191
+[Epoch 6] average loss: 0.019728
+[Epoch 7] average loss: 0.018945
+acc: 0.737011,auc: 0.695316,rmse: 0.455010, mae: 0.280027
+---------NCDM-----------
+DataSet: MathEC
+test_ratio: 0.2
+[Epoch 0] average loss: 0.556723
+[Epoch 1] average loss: 0.511514
+[Epoch 2] average loss: 0.480363
+[Epoch 3] average loss: 0.466872
+[Epoch 4] average loss: 0.460034
+[Epoch 5] average loss: 0.455088
+[Epoch 6] average loss: 0.450849
+[Epoch 7] average loss: 0.446990
+acc: 0.708980,auc: 0.744419,rmse: 0.447190, mae: 0.359619

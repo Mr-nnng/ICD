@@ -1,0 +1,27 @@
+DataSet: ASSIST_0910
+test_ratio: 0.2
+	test_result: 	acc:0.671814, auc:0.655060, rmse:0.458782, mae:0.423449
+	test_result: 	acc:0.682354, auc:0.679922, rmse:0.452090, mae:0.406616
+	test_result: 	acc:0.690975, auc:0.693632, rmse:0.449240, mae:0.386367
+	test_result: 	acc:0.703017, auc:0.709399, rmse:0.445035, mae:0.378120
+	test_result: 	acc:0.707229, auc:0.719117, rmse:0.444903, mae:0.375391
+	test_result: 	acc:0.712588, auc:0.723371, rmse:0.443404, mae:0.364829
+	test_result: 	acc:0.717749, auc:0.726258, rmse:0.441510, mae:0.355629
+	test_result: 	acc:0.715653, auc:0.726750, rmse:0.442941, mae:0.356679
+DataSet: ASSIST_2017
+test_ratio: 0.2
+	test_result: 	acc:0.637502, auc:0.669139, rmse:0.473768, mae:0.452956
+	test_result: 	acc:0.652080, auc:0.695591, rmse:0.466522, mae:0.434495
+	test_result: 	acc:0.658112, auc:0.703236, rmse:0.464317, mae:0.426193
+	test_result: 	acc:0.667749, auc:0.712830, rmse:0.461867, mae:0.420368
+	test_result: 	acc:0.673249, auc:0.722922, rmse:0.458859, mae:0.412402
+	test_result: 	acc:0.678204, auc:0.732339, rmse:0.456320, mae:0.403720
+	test_result: 	acc:0.683217, auc:0.737883, rmse:0.454966, mae:0.398218
+	test_result: 	acc:0.686089, auc:0.740958, rmse:0.454120, mae:0.392390
+DataSet: JUNYI
+test_ratio: 0.2
+	test_result: 	acc:0.795369, auc:0.786821, rmse:0.378209, mae:0.285438
+	test_result: 	acc:0.800646, auc:0.797842, rmse:0.374164, mae:0.275931
+	test_result: 	acc:0.804961, auc:0.797674, rmse:0.374841, mae:0.255660
+DataSet: MathEC
+test_ratio: 0.2

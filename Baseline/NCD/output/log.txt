@@ -1,0 +1,16 @@
+DataSet: JUNYI
+DataSet: JUNYI
+DataSet: JUNYI
+DataSet: JUNYI
+test_ratio: 0.2
+[Epoch 0] average loss: 0.467041
+[Epoch 1] average loss: 0.435579
+[Epoch 2] average loss: 0.228790
+[Epoch 3] average loss: 0.049225
+[Epoch 4] average loss: 0.020184
+[Epoch 5] average loss: 0.012453
+[Epoch 6] average loss: 0.010374
+[Epoch 7] average loss: 0.009685
+acc: 0.744271,auc: 0.702159,rmse: 0.449566, mae: 0.267899
+DataSet: MathEC
+test_ratio: 0.2

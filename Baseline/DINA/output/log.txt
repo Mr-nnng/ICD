@@ -1,0 +1,25 @@
+DataSet: JUNYI
+test_ratio: 0.2
+DataSet: JUNYI
+test_ratio: 0.2
+[Epoch 0] LogisticLoss: 0.566639
+[Epoch 1] LogisticLoss: 0.526141
+DataSet: JUNYI
+test_ratio: 0.2
+DataSet: JUNYI
+test_ratio: 0.2
+DataSet: JUNYI
+test_ratio: 0.2
+DataSet: JUNYI
+test_ratio: 0.2
+[Epoch 0] LogisticLoss: 0.565534
+[Epoch 1] LogisticLoss: 0.526248
+[Epoch 2] LogisticLoss: 0.518459
+[Epoch 3] LogisticLoss: 0.512960
+[Epoch 4] LogisticLoss: 0.509136
+[Epoch 5] LogisticLoss: 0.505447
+[Epoch 6] LogisticLoss: 0.502891
+[Epoch 7] LogisticLoss: 0.499831
+acc: 0.499822,auc: 0.625420,rmse: 0.519539, mae: 0.385038
+DataSet: MathEC
+test_ratio: 0.2
